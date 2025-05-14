@@ -1,0 +1,12 @@
+# Java
+*.class
+bin/
+target/
+
+# IDE
+.vscode/
+*.iml
+
+# Data files (optional)
+*.pdf
+*.docx
